@@ -9,7 +9,7 @@
 
 ## 下载安装包
 
-**[v1.0.3 安装包（25.6MB）](https://github.com/502372626/laok-framework/releases/tag/v1.0.3)** —— 双击安装（免管理员），打开桌面「老K破甲执行器」，注册/登录账号并用激活码激活。激活码获取见 Release 说明。
+**[v1.0.5 安装包（21.6MB）](https://github.com/502372626/laok-framework/releases/tag/v1.0.5)** —— 双击安装（免管理员），打开桌面「老K破甲执行器」，注册/登录账号并用激活码激活。激活码获取见 Release 说明。
 
 ## 交流群
 
