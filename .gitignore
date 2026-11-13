@@ -1,0 +1,6 @@
+node_modules/
+*.log
+*.exe
+*.7z
+*.db
+.DS_Store
